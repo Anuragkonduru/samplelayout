@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-style {
+  max-height: 95vh;
+  height: 100%;
+}
+.nav2style {
+  width: 100%;
+}
+.panel {
+  width: 86vw;
+}
+
+.color-main {
+  color: #6666e1;
+}
+.color-highlight {
+  border-right: 5px solid #6666e1;
+}
+.color-select {
+  background-color: #242d35;
+}
+.color-background {
+  background-color: #000000;
+}
+.user-img {
+  height: 40px;
+  width: 40px;
+  background-image: url(/resources/img/main_user.jpg);
+  background-size: cover;
+  background-position: center;
+}
